@@ -1,4 +1,4 @@
-JBST 1pxdeep Theme
+JBST 1pxdeep
 ============================
 [JBST](http://www.jbst.eu/) is a powerful theme framework that can be used as a standalone website builder or as a framework to create child themes for wordpress build on Twitter's Bootstrap 3. Full customizable with [LESS](http://www.lesscss.org/). Relative color design is designing by relative visual weight, or designing with color schemes. [1pxdeep](http://rriepe.github.io/1pxdeep/) brings that concept to Bootstrap and this theme brings it to WordPress.
 
